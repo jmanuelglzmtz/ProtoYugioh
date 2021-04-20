@@ -1,0 +1,26 @@
+.vs/
+.idea/
+.DS_Store
+.sonarqube
+bin/
+obj/
+*.Local.json
+*.user
+docker-compose.override.yml
+global.json
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+*.opencover.xml
+
+# Visual Studio Code configs
+.vscode
+
+# Codeship
+env
+build_args
+*.aes
+
+# Coverage
+tmp
